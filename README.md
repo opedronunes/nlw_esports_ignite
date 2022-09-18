@@ -38,7 +38,7 @@
 </div><br>
 
 <div>
-    <h3>LandinPage</h3>
+    <h3>LandingPage</h3>
     <img style="border-radius: 8px;" src="./web/public/screenshot1.png" />
 </div>
 <div>

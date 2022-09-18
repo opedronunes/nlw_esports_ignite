@@ -7,10 +7,10 @@
 
 **Nesta NLW**<br>
 <p>
-    Buscando juntar os dois mundo (Game e Programação), a NLW eSports é uma das mais incríveis criada pela Rocketseat, tanto web quanto mobile. Durante a semana desenvolvemos um projeto inédito do universo de games usando as tecnologias mais atuais do mercado.
+    Buscando juntar os dois mundos (Game e Programação), a NLW eSports é uma das mais incríveis criada pela Rocketseat, tanto web quanto mobile. Durante a semana desenvolvemos um projeto inédito do universo de games usando as tecnologias mais atuais do mercado.
 </p>
 
-**✅ tecnologies used**
+**✅ tecnologias usadas**
 
 <div>
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
